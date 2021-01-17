@@ -1,0 +1,2 @@
+admin : admin@admin.id secret
+customer : test@gmail.com secret
